@@ -33,6 +33,13 @@ The project report documents the dimensional model, SSIS workflows, SQL queries,
 
 Additional SQL scripts and screenshots will be added as separate files for easier review.
 
+## Project Report
+
+The report includes the dimensional model, SSIS ETL workflows,
+SQL queries, and query results.
+
+[View the full project report](Crocoroos_Report.pdf)
+
 ## Limitations
 
 - This project was completed as an academic case study.
